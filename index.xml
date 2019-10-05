@@ -1,0 +1,11 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>devcsrj on devcsrj</title>
+    <link>https://devcsrj.github.io/</link>
+    <description>Recent content in devcsrj on devcsrj</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
